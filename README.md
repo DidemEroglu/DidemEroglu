@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DidemEroglu
-- 👀 I’m interested in FrontEnd web development
+- 👋 Hi, I’m Didem
+- 👀 I’m striving in FrontEnd web development. I also produce various web content.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on my website's backend works
 - 📫 Reach me from linkedin.com/didemeroglu
